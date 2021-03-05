@@ -38,6 +38,7 @@ namespace mystl
 
 // 模板类: vector 
 // 模板参数 T 代表类型
+// class这里也可以用typename，详细见文章：https://ramboqiu.github.io/posts/MyTinySDL%E9%98%85%E8%AF%BB%E4%B9%8B%E4%BA%8C-typedef-typename/
 template <class T>
 class vector
 {
